@@ -9,14 +9,12 @@ on:
 jobs:
   build:
     runs-on: windows-latest
-    defaults:
-      run:
-        shell: bash
     steps:
-    - name: Set up MinGW
-      uses: egor-tensin/setup-mingw@v2
-      with:
-        platform: x64
+    - name: setup msys
+      uses: msys2/setup-msys2@v2
+    - shell: msys2 {0}
+      run: |
+        uname -a
     - uses: actions/checkout@v3
     - name: make all
       run: make all
