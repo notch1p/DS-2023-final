@@ -1,4 +1,3 @@
-CC = clang
 CFLAGS := -O2 -Wall
 
 all: main
