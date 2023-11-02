@@ -2,7 +2,7 @@ CC = clang
 CFLAGS := -O2 -Wall
 
 all: main
-main: ahed.o main.c
+main: huff.o main.c
 test:
 	./main -c -i test -o test.ahed -l test.log
 	cat test.log
