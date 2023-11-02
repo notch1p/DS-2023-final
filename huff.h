@@ -3,6 +3,7 @@
 #include <assert.h>
 #include <stdarg.h> //va_list, va_start, va_end
 #include <stdbool.h>
+#include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
