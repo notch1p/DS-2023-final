@@ -18,8 +18,8 @@
     start = clock();                      \
     a;                                    \
     diff = clock() - start;               \
-    msec = (double)diff / CLOCKS_PER_SEC; \
-    printf("Time elapsed: %lfs during %s action\n", msec, b)
+    msec = (double)diff * 1e3 / CLOCKS_PER_SEC; \
+    printf("Time elapsed: %lfms during %s action\n", msec, b)
 
 // Encoder/decoder log
 typedef struct {

@@ -69,9 +69,7 @@ int main(int argc, char** argv)
 
     // output file
     if (ofile == NULL) {
-        strcpy(ofile,ifile);
-        strcat(ofile,".huff");
-        outputFile = fopen(ofile, "wb");
+        outputFile = stdout;
     } else
         outputFile = fopen(ofile, "wb");
     if (outputFile == NULL) {
@@ -85,7 +83,7 @@ int main(int argc, char** argv)
             AHEDError("can not open a log file");
             return AHEDFail;
         } else
-            logFile = fopen(lfile, "w");
+            logFile = fopen(lfile, "a");
     }
 
     if (cFlag == 1 && xFlag == 1) {
@@ -102,23 +100,27 @@ int main(int argc, char** argv)
     clock_t start, diff;
     double msec;
     if (cFlag == 1) {
-        printf("Encode from %s to %s (Log %s)", ifile, ofile, (lFlag == 1 ? "Enabled" : "Disabled"));
+        printf("\033[1;33m===========Encoding===========\033[0m\n");
+        printf("Encode from %s to %s %s\n", ifile, (ofile ? ofile : "stdout"), (lFlag == 1 ? "(Logging)" : ""));
         timing(AHEDEncoding(ahed, inputFile, outputFile), "ENCODING");
-        printf("Encoded/Decoded = %lf\n", (double)ahed->codedSize / ahed->uncodedSize);
+        printf("Encoded Size=%lld B,Decoded Size=%lld B,Compressed ratio = %lf%%\n", ahed->codedSize, ahed->uncodedSize, (double)ahed->codedSize * 100 / ahed->uncodedSize);
+        printf("\033[1;33m===========Completed===========\033[0m\n");
     } else if (xFlag == 1) {
-        printf("Decode from %s to %s (Log %s)", ifile, ofile, (lFlag == 1 ? "Enabled" : "Disabled"));
+        printf("\033[1;33m===========Decoding===========\033[0m\n");
+        printf("Decode from %s to %s %s\n", ifile, (ofile ? ofile : "stdout"), (lFlag == 1 ? "Logging" : ""));
         timing(AHEDDecoding(ahed, inputFile, outputFile), "DECODING");
-        printf("Encoded/Decoded Size ratio = %lf\n", (double)ahed->codedSize / ahed->uncodedSize);
+        printf("Encoded Size=%lld B,Decoded Size=%lld B,Compressed ratio = %lf%%\n", ahed->codedSize, ahed->uncodedSize, (double)ahed->codedSize * 100 / ahed->uncodedSize);
+        printf("\033[1;33m===========Completed===========\033[0m\n");
     }
     // log
     if (logFile != NULL) {
         if (cFlag == 1)
-            printf("Encode from %s to %s", ifile, ofile);
+            fprintf(logFile, "Encode from %s to %s", ifile, ofile);
         else if (xFlag == 1)
-            printf("Decode from %s to %s", ifile, ofile);
+            fprintf(logFile, "Decode from %s to %s", ifile, ofile);
         fprintf(logFile, "uncodedSize = %lld\n", ahed->uncodedSize);
         fprintf(logFile, "codedSize = %lld\n", ahed->codedSize);
-        printf("Encoded/Decoded Size ratio = %lf\n", (double)ahed->codedSize / ahed->uncodedSize);
+        fprintf(logFile, "Compressed ratio = %lf\n", (double)ahed->codedSize / ahed->uncodedSize);
         fclose(logFile);
     }
 

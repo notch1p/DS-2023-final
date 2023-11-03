@@ -10,6 +10,4 @@ test:
 	md5sum test
 	md5sum test.dec
 clean:
-	-rm -f *.o main test.ahed test.dec test.log test.ahed.log
-clear:
-	-rm -f test.ahed test.dec test.log test.ahed.log
+	-rm -f *.o main test.*
