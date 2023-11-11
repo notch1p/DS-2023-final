@@ -10,4 +10,4 @@ test:
 	md5sum test
 	md5sum test.dec
 clean:
-	-rm -f *.o main test.*
+	-rm -f *.o main test.* decOG* *.huff encOG*

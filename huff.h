@@ -19,7 +19,7 @@
     a;                                    \
     diff = clock() - start;               \
     msec = (double)diff * 1e3 / CLOCKS_PER_SEC; \
-    printf("Time elapsed: %lfms during %s action\n", msec, b)
+    printf("\nTime elapsed: %lfms during %s process\n", msec, b)
 
 // Encoder/decoder log
 typedef struct {
@@ -27,6 +27,8 @@ typedef struct {
     uint64_t uncodedSize;
     /* size of the encoded string */
     uint64_t codedSize;
+    /*symbols count*/
+    short n_symbols;
 } tAHED;
 
 /**

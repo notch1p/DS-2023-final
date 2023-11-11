@@ -1,0 +1,490 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3861pt" height="994pt" viewBox="0.00 0.00 3861.39 994.29">
+<g id="graph0" class="graph" transform="translate(580.4943389387482,588.4939928314984) scale(0.6935164234497321)">
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-990.29 3857.39,-990.29 3857.39,4 -4,4"/>
+<g id="clust41" class="cluster">
+<title>cluster_file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c</title>
+<polygon fill="none" stroke="black" points="8,-350.29 8,-427.29 262.19,-427.29 262.19,-350.29 8,-350.29"/>
+<text text-anchor="middle" x="135.09" y="-410.69" font-family="Times,serif" font-size="14.00">${workspace}/main.c</text>
+</g>
+<g id="clust42" class="cluster">
+<title>cluster_file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/unistd.h</title>
+<polygon fill="none" stroke="black" points="282.11,-901.29 282.11,-978.29 1044.31,-978.29 1044.31,-901.29 282.11,-901.29"/>
+<text text-anchor="middle" x="663.21" y="-961.69" font-family="Times,serif" font-size="14.00">file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/unistd.h</text>
+</g>
+<g id="clust43" class="cluster">
+<title>cluster_file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c</title>
+<polygon fill="none" stroke="black" points="371.19,-350.29 371.19,-703.29 3077.95,-703.29 3077.95,-350.29 371.19,-350.29"/>
+<text text-anchor="middle" x="1724.57" y="-686.69" font-family="Times,serif" font-size="14.00">${workspace}/huff.c</text>
+</g>
+<g id="clust44" class="cluster">
+<title>cluster_file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h</title>
+<polygon fill="none" stroke="black" points="3097.95,-444.29 3097.95,-845.29 3853.39,-845.29 3853.39,-444.29 3097.95,-444.29"/>
+<text text-anchor="middle" x="3475.67" y="-828.69" font-family="Times,serif" font-size="14.00">file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h</text>
+</g>
+<g id="clust45" class="cluster">
+<title>cluster_file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h</title>
+<polygon fill="none" stroke="black" points="1080.16,-105.29 1080.16,-236.29 1894.87,-236.29 1894.87,-105.29 1080.16,-105.29"/>
+<text text-anchor="middle" x="1487.52" y="-219.69" font-family="Times,serif" font-size="14.00">file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h</text>
+</g>
+<g id="clust46" class="cluster">
+<title>cluster_file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/time.h</title>
+<polygon fill="none" stroke="black" points="286.32,-265.29 286.32,-342.29 1039.1,-342.29 1039.1,-265.29 286.32,-265.29"/>
+<text text-anchor="middle" x="662.71" y="-325.69" font-family="Times,serif" font-size="14.00">file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/time.h</text>
+</g>
+<g id="clust47" class="cluster">
+<title>cluster_file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h</title>
+<polygon fill="none" stroke="black" points="1921.81,-265.29 1921.81,-342.29 2681.44,-342.29 2681.44,-265.29 1921.81,-265.29"/>
+<text text-anchor="middle" x="2301.62" y="-325.69" font-family="Times,serif" font-size="14.00">file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0 -->
+<g id="node1" class="node">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0</title>
+<ellipse fill="none" stroke="black" cx="135.09" cy="-376.29" rx="119.19" ry="18"/>
+<text text-anchor="middle" x="135.09" y="-372.09" font-family="Times,serif" font-size="14.00">main(int argc, char ** argv)</text>
+</g>
+<!-- file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/unistd.h#getopt(int, char *const *, const char *)@508:5 -->
+<g id="node2" class="node">
+<title>file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/unistd.h#getopt(int, char *const *, const char *)@508:5</title>
+<ellipse fill="none" stroke="black" cx="662.71" cy="-927.29" rx="159.7" ry="18"/>
+<text text-anchor="middle" x="662.71" y="-923.09" font-family="Times,serif" font-size="14.00">getopt(int, char *const *, const char *)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/unistd.h#getopt(int, char *const *, const char *)@508:5 -->
+<g id="edge1" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/unistd.h#getopt(int, char *const *, const char *)@508:5</title>
+<path fill="none" stroke="black" d="M138.43,-394.33C149.65,-478.14 200.91,-828.24 282.11,-895.29 364.92,-963.69 495.42,-958.18 579.79,-945.02"/>
+<polygon fill="black" stroke="black" points="580.53,-948.44 589.84,-943.38 579.41,-941.53 580.53,-948.44"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0 -->
+<g id="node3" class="node">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0</title>
+<ellipse fill="none" stroke="black" cx="1487.52" cy="-652.29" rx="139.41" ry="18"/>
+<text text-anchor="middle" x="1487.52" y="-648.09" font-family="Times,serif" font-size="14.00">AHEDError(const char * fmt, ...)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0 -->
+<g id="edge2" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0</title>
+<path fill="none" stroke="black" d="M162.08,-393.97C190.4,-412.44 237.62,-440.94 282.11,-457.29 621.65,-582.07 722.05,-566.13 1080.16,-617.29 1169.57,-630.06 1270.75,-638.8 1349.79,-644.34"/>
+<polygon fill="black" stroke="black" points="1349.59,-647.84 1359.81,-645.04 1350.07,-640.86 1349.59,-647.84"/>
+</g>
+<!-- file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#printf(const char *__restrict__, ...)@166:5 -->
+<g id="node4" class="node">
+<title>file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#printf(const char *__restrict__, ...)@166:5</title>
+<ellipse fill="none" stroke="black" cx="3475.17" cy="-740.29" rx="143.54" ry="18"/>
+<text text-anchor="middle" x="3475.17" y="-736.09" font-family="Times,serif" font-size="14.00">printf(const char *__restrict__, ...)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#printf(const char *__restrict__, ...)@166:5 -->
+<g id="edge3" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#printf(const char *__restrict__, ...)@166:5</title>
+<path fill="none" stroke="black" d="M137.94,-394.46C144.81,-451.53 174.31,-628.05 282.11,-707.29 499.13,-866.82 1217.17,-843.29 1486.52,-843.29 1486.52,-843.29 1486.52,-843.29 2302.12,-843.29 2657.43,-843.29 2743.87,-796.9 3097.95,-767.29 3177.09,-760.67 3265.69,-754.27 3337.02,-749.35"/>
+<polygon fill="black" stroke="black" points="3337.68,-752.82 3347.42,-748.64 3337.2,-745.83 3337.68,-752.82"/>
+</g>
+<!-- file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fopen(const char *__restrict__ __filename, const char *__restrict__ __mode)@144:6 -->
+<g id="node5" class="node">
+<title>file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fopen(const char *__restrict__ __filename, const char *__restrict__ __mode)@144:6</title>
+<ellipse fill="none" stroke="black" cx="3475.17" cy="-794.29" rx="309.45" ry="18"/>
+<text text-anchor="middle" x="3475.17" y="-790.09" font-family="Times,serif" font-size="14.00">fopen(const char *__restrict__ __filename, const char *__restrict__ __mode)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fopen(const char *__restrict__ __filename, const char *__restrict__ __mode)@144:6 -->
+<g id="edge4" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fopen(const char *__restrict__ __filename, const char *__restrict__ __mode)@144:6</title>
+<path fill="none" stroke="black" d="M136.15,-394.59C137.44,-460.53 151.54,-687.33 282.11,-788.29 494.47,-952.5 1218.07,-881.29 1486.52,-881.29 1486.52,-881.29 1486.52,-881.29 2302.12,-881.29 2674.39,-881.29 3111.34,-837.1 3331.7,-811.71"/>
+<polygon fill="black" stroke="black" points="3332.17,-815.18 3341.7,-810.55 3331.37,-808.23 3332.17,-815.18"/>
+</g>
+<!-- file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#malloc(size_t __size)@44:6 -->
+<g id="node6" class="node">
+<title>file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#malloc(size_t __size)@44:6</title>
+<ellipse fill="none" stroke="black" cx="1487.52" cy="-185.29" rx="93.21" ry="18"/>
+<text text-anchor="middle" x="1487.52" y="-181.09" font-family="Times,serif" font-size="14.00">malloc(size_t __size)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#malloc(size_t __size)@44:6 -->
+<g id="edge5" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#malloc(size_t __size)@44:6</title>
+<path fill="none" stroke="black" d="M151.89,-358.27C176.59,-331.54 227.25,-282.26 282.11,-261.29 482.13,-184.84 1130.66,-182.02 1383.89,-183.99"/>
+<polygon fill="black" stroke="black" points="1384.16,-187.49 1394.19,-184.08 1384.22,-180.49 1384.16,-187.49"/>
+</g>
+<!-- file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/time.h#clock_t clock(void)@108:8 -->
+<g id="node7" class="node">
+<title>file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/time.h#clock_t clock(void)@108:8</title>
+<ellipse fill="none" stroke="black" cx="662.71" cy="-291.29" rx="86.28" ry="18"/>
+<text text-anchor="middle" x="662.71" y="-287.09" font-family="Times,serif" font-size="14.00">clock_t clock(void)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/time.h#clock_t clock(void)@108:8 -->
+<g id="edge6" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/time.h#clock_t clock(void)@108:8</title>
+<path fill="none" stroke="black" d="M203.91,-361.49C228.48,-356.36 256.49,-350.77 282.11,-346.29 383.64,-328.52 501.18,-312.13 578.25,-301.95"/>
+<polygon fill="black" stroke="black" points="578.92,-305.39 588.38,-300.62 578.01,-298.45 578.92,-305.39"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0 -->
+<g id="node8" class="node">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0</title>
+<ellipse fill="none" stroke="black" cx="662.71" cy="-430.29" rx="282.98" ry="18"/>
+<text text-anchor="middle" x="662.71" y="-426.09" font-family="Times,serif" font-size="14.00">AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0 -->
+<g id="edge7" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0</title>
+<path fill="none" stroke="black" d="M205.66,-390.8C229.77,-395.39 257.05,-400.09 282.11,-403.29 330.7,-409.49 382.98,-414.37 432.75,-418.16"/>
+<polygon fill="black" stroke="black" points="432.76,-421.67 442.99,-418.93 433.28,-414.69 432.76,-421.67"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0 -->
+<g id="node9" class="node">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0</title>
+<ellipse fill="none" stroke="black" cx="662.71" cy="-376.29" rx="283.54" ry="18"/>
+<text text-anchor="middle" x="662.71" y="-372.09" font-family="Times,serif" font-size="14.00">AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0 -->
+<g id="edge8" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0</title>
+<path fill="none" stroke="black" d="M254.38,-376.29C289.06,-376.29 328.61,-376.29 369.12,-376.29"/>
+<polygon fill="black" stroke="black" points="369.15,-379.79 379.15,-376.29 369.15,-372.79 369.15,-379.79"/>
+</g>
+<!-- file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5 -->
+<g id="node10" class="node">
+<title>file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5</title>
+<ellipse fill="none" stroke="black" cx="3475.17" cy="-632.29" rx="225.63" ry="18"/>
+<text text-anchor="middle" x="3475.17" y="-628.09" font-family="Times,serif" font-size="14.00">fprintf(FILE *__restrict__, const char *__restrict__, ...)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5 -->
+<g id="edge9" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5</title>
+<path fill="none" stroke="black" d="M139.37,-358.06C149.62,-307.03 186.35,-162.8 282.11,-105.29 434.15,-13.99 902.81,-101.74 1080.16,-101.29 1527.44,-100.17 2783.58,-9.54 3077.95,-346.29 3115.94,-389.75 3057.02,-564.58 3097.95,-605.29 3122.86,-630.07 3193.02,-638.82 3266.09,-640.62"/>
+<polygon fill="black" stroke="black" points="3266.35,-644.13 3276.42,-640.83 3266.49,-637.13 3266.35,-644.13"/>
+</g>
+<!-- file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fclose(FILE *)@134:5 -->
+<g id="node11" class="node">
+<title>file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fclose(FILE *)@134:5</title>
+<ellipse fill="none" stroke="black" cx="3475.17" cy="-470.29" rx="68.29" ry="18"/>
+<text text-anchor="middle" x="3475.17" y="-466.09" font-family="Times,serif" font-size="14.00">fclose(FILE *)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fclose(FILE *)@134:5 -->
+<g id="edge10" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fclose(FILE *)@134:5</title>
+<path fill="none" stroke="black" d="M138.33,-357.94C146.15,-302.84 177.71,-138.52 282.11,-71.29 507.18,73.65 1218.82,-47.29 1486.52,-47.29 1486.52,-47.29 1486.52,-47.29 2302.12,-47.29 2649.3,-47.29 2759.15,-0.83 3077.95,-138.29 3246.73,-211.07 3399.05,-379.89 3453.22,-444.5"/>
+<polygon fill="black" stroke="black" points="3450.83,-447.1 3459.92,-452.55 3456.21,-442.63 3450.83,-447.1"/>
+</g>
+<!-- file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#free(void *)@46:6 -->
+<g id="node12" class="node">
+<title>file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#free(void *)@46:6</title>
+<ellipse fill="none" stroke="black" cx="1487.52" cy="-131.29" rx="56.76" ry="18"/>
+<text text-anchor="middle" x="1487.52" y="-127.09" font-family="Times,serif" font-size="14.00">free(void *)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#free(void *)@46:6 -->
+<g id="edge11" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/main.c#main(int argc, char ** argv)@5:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#free(void *)@46:6</title>
+<path fill="none" stroke="black" d="M143.25,-358.04C160.24,-317.56 207.27,-220.71 282.11,-181.29 481.92,-76.05 1200.87,-112.72 1421.6,-126.82"/>
+<polygon fill="black" stroke="black" points="1421.53,-130.33 1431.73,-127.48 1421.98,-123.34 1421.53,-130.33"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5 -->
+<g id="edge12" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5</title>
+<path fill="none" stroke="black" d="M1565.75,-637.4C1868.95,-609.28 2979.42,-597.03 3351.63,-616.19"/>
+<polygon fill="black" stroke="black" points="3351.46,-619.69 3361.63,-616.73 3351.83,-612.7 3351.46,-619.69"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5 -->
+<g id="edge14" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5</title>
+<path fill="none" stroke="black" d="M1598.1,-641.29C1920.82,-625.21 2870.7,-614.74 3281.37,-621.63"/>
+<polygon fill="black" stroke="black" points="3281.51,-625.13 3291.57,-621.81 3281.64,-618.14 3281.51,-625.13"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5 -->
+<g id="edge16" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5</title>
+<path fill="none" stroke="black" d="M1621.5,-647.36C1953.47,-640.15 2821.98,-631.08 3241.17,-630.1"/>
+<polygon fill="black" stroke="black" points="3241.3,-633.6 3251.29,-630.08 3241.29,-626.6 3241.3,-633.6"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5 -->
+<g id="edge18" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5</title>
+<path fill="none" stroke="black" d="M1625.78,-654.55C1964.43,-655 2842.1,-646.42 3254.27,-638.94"/>
+<polygon fill="black" stroke="black" points="3254.59,-642.43 3264.52,-638.75 3254.46,-635.43 3254.59,-642.43"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5 -->
+<g id="edge20" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5</title>
+<path fill="none" stroke="black" d="M1607.89,-661.37C1947.45,-670.71 2919.36,-661.43 3309.33,-645.76"/>
+<polygon fill="black" stroke="black" points="3309.72,-649.25 3319.56,-645.34 3309.43,-642.25 3309.72,-649.25"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5 -->
+<g id="edge22" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#fprintf(FILE *__restrict__, const char *__restrict__, ...)@146:5</title>
+<path fill="none" stroke="black" d="M1575.12,-666.28C1896.65,-687.8 3021.33,-676.89 3370.17,-649.47"/>
+<polygon fill="black" stroke="black" points="3370.58,-652.94 3380.27,-648.65 3370.02,-645.97 3370.58,-652.94"/>
+</g>
+<!-- file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)@193:5 -->
+<g id="node13" class="node">
+<title>file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)@193:5</title>
+<ellipse fill="none" stroke="black" cx="3475.17" cy="-686.29" rx="306.09" ry="18"/>
+<text text-anchor="middle" x="3475.17" y="-682.09" font-family="Times,serif" font-size="14.00">vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)@193:5 -->
+<g id="edge13" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)@193:5</title>
+<path fill="none" stroke="black" d="M1513.83,-634.61C1580.42,-621.13 1766.11,-647.51 1921.81,-656.29 2460.53,-686.66 3106.04,-660.35 3361.85,-668.97"/>
+<polygon fill="black" stroke="black" points="3361.77,-672.47 3371.89,-669.33 3362.02,-665.47 3361.77,-672.47"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)@193:5 -->
+<g id="edge15" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)@193:5</title>
+<path fill="none" stroke="black" d="M1623.34,-648.26C1708.68,-655.67 1821.47,-668.64 1921.81,-674.29 2357.05,-698.82 2861.99,-686.37 3174.82,-680.68"/>
+<polygon fill="black" stroke="black" points="3175,-684.18 3184.94,-680.5 3174.88,-677.18 3175,-684.18"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)@193:5 -->
+<g id="edge17" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)@193:5</title>
+<path fill="none" stroke="black" d="M1606.37,-661.78C1693.33,-671.88 1814.67,-686.25 1921.81,-692.29 2361.38,-717.07 2872.03,-704.12 3184.09,-693.84"/>
+<polygon fill="black" stroke="black" points="3184.3,-697.33 3194.18,-693.5 3184.07,-690.34 3184.3,-697.33"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)@193:5 -->
+<g id="edge19" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)@193:5</title>
+<path fill="none" stroke="black" d="M1553.66,-668.17C1638.27,-683.02 1790.67,-702.9 1921.81,-710.29 2415.13,-738.1 2997.99,-718.39 3289.16,-701.65"/>
+<polygon fill="black" stroke="black" points="3289.61,-705.13 3299.39,-701.05 3289.21,-698.14 3289.61,-705.13"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)@193:5 -->
+<g id="edge21" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)@193:5</title>
+<path fill="none" stroke="black" d="M1516.31,-669.97C1584.93,-693.77 1768,-719.62 1921.81,-728.29 2472.93,-759.35 3135.81,-731.11 3378.89,-704.75"/>
+<polygon fill="black" stroke="black" points="3379.55,-708.2 3389.1,-703.62 3378.77,-701.24 3379.55,-708.2"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)@193:5 -->
+<g id="edge23" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#vfprintf(FILE *__restrict__, const char *__restrict__, struct __va_list_tag *)@193:5</title>
+<path fill="none" stroke="black" d="M1501.23,-670.31C1553.22,-707.2 1754.77,-736.88 1921.81,-746.29 2510.35,-779.46 3226.33,-745.01 3422.42,-706.2"/>
+<polygon fill="black" stroke="black" points="3423.37,-709.58 3432.44,-704.12 3421.94,-702.73 3423.37,-709.58"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0 -->
+<g id="edge24" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0</title>
+<path fill="none" stroke="black" d="M797.27,-446.2C876.56,-461.56 974.84,-491.61 1044.31,-550.29 1071.01,-572.85 1051.08,-600.9 1080.16,-620.29 1174.7,-683.32 1310.5,-679.87 1398.62,-668.54"/>
+<polygon fill="black" stroke="black" points="1399.14,-672 1408.59,-667.2 1398.21,-665.07 1399.14,-672"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#malloc(size_t __size)@44:6 -->
+<g id="edge25" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#malloc(size_t __size)@44:6</title>
+<path fill="none" stroke="black" d="M733,-447.76C817.16,-464.48 958.47,-477.45 1044.31,-403.29 1100.43,-354.8 1025.61,-290.55 1080.16,-240.29 1168.73,-158.7 1317.68,-160.92 1408.54,-171.82"/>
+<polygon fill="black" stroke="black" points="1408.15,-175.3 1418.5,-173.08 1409.02,-168.35 1408.15,-175.3"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#free(void *)@46:6 -->
+<g id="edge26" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#free(void *)@46:6</title>
+<path fill="none" stroke="black" d="M729.47,-447.81C813.94,-465.95 959.7,-481.81 1044.31,-403.29 1124.97,-328.43 999.33,-232.97 1080.16,-158.29 1128.36,-113.76 1320.31,-119.61 1422.2,-126.19"/>
+<polygon fill="black" stroke="black" points="1422.16,-129.7 1432.37,-126.87 1422.63,-122.71 1422.16,-129.7"/>
+</g>
+<!-- file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#getc(FILE *)@157:5 -->
+<g id="node14" class="node">
+<title>file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#getc(FILE *)@157:5</title>
+<ellipse fill="none" stroke="black" cx="3475.17" cy="-524.29" rx="61.35" ry="18"/>
+<text text-anchor="middle" x="3475.17" y="-520.09" font-family="Times,serif" font-size="14.00">getc(FILE *)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#getc(FILE *)@157:5 -->
+<g id="edge27" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#getc(FILE *)@157:5</title>
+<path fill="none" stroke="black" d="M946.1,-430.23C989.46,-425.46 1025.92,-417.14 1044.31,-403.29 1081.36,-375.39 1043.08,-333.15 1080.16,-305.29 1098.3,-291.67 2686.77,-194.07 2709.44,-193.29 2873.12,-187.67 2958.39,-81.34 3077.95,-193.29 3127.37,-239.57 3050.22,-449.28 3097.95,-497.29 3139.54,-539.13 3308.96,-535.45 3405.67,-529.6"/>
+<polygon fill="black" stroke="black" points="3406.18,-533.07 3415.94,-528.95 3405.74,-526.09 3406.18,-533.07"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDFirstInput(t_node ** ta, int c)@108:0 -->
+<g id="node15" class="node">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDFirstInput(t_node ** ta, int c)@108:0</title>
+<ellipse fill="none" stroke="black" cx="1487.52" cy="-504.29" rx="151.67" ry="18"/>
+<text text-anchor="middle" x="1487.52" y="-500.09" font-family="Times,serif" font-size="14.00">AHEDFirstInput(t_node ** ta, int c)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDFirstInput(t_node ** ta, int c)@108:0 -->
+<g id="edge28" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDFirstInput(t_node ** ta, int c)@108:0</title>
+<path fill="none" stroke="black" d="M792.06,-446.32C874.32,-456.21 983.41,-468.62 1080.16,-477.29 1165.92,-484.98 1262.05,-491.46 1339.27,-496.14"/>
+<polygon fill="black" stroke="black" points="1339.36,-499.66 1349.55,-496.77 1339.78,-492.67 1339.36,-499.66"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDOutputNodeCode(FILE * file, t_node * n)@125:0 -->
+<g id="node16" class="node">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDOutputNodeCode(FILE * file, t_node * n)@125:0</title>
+<ellipse fill="none" stroke="black" cx="2301.12" cy="-541.29" rx="200.82" ry="18"/>
+<text text-anchor="middle" x="2301.12" y="-537.09" font-family="Times,serif" font-size="14.00">AHEDOutputNodeCode(FILE * file, t_node * n)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDOutputNodeCode(FILE * file, t_node * n)@125:0 -->
+<g id="edge29" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDOutputNodeCode(FILE * file, t_node * n)@125:0</title>
+<path fill="none" stroke="black" d="M784.08,-446.6C864.26,-462.35 968.42,-492.7 1044.31,-550.29 1067.55,-567.93 1054.51,-591.39 1080.16,-605.29 1119.96,-626.85 1853.84,-624.39 1894.87,-605.29 1911.73,-597.45 1905.3,-581.84 1921.81,-573.29 1992.25,-536.82 2080.06,-527.57 2153.35,-528"/>
+<polygon fill="black" stroke="black" points="2153.55,-531.5 2163.59,-528.13 2153.63,-524.5 2153.55,-531.5"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDOutputCharCode(FILE * file, unsigned char c)@153:0 -->
+<g id="node17" class="node">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDOutputCharCode(FILE * file, unsigned char c)@153:0</title>
+<ellipse fill="none" stroke="black" cx="1487.52" cy="-578.29" rx="218.69" ry="18"/>
+<text text-anchor="middle" x="1487.52" y="-574.09" font-family="Times,serif" font-size="14.00">AHEDOutputCharCode(FILE * file, unsigned char c)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDOutputCharCode(FILE * file, unsigned char c)@153:0 -->
+<g id="edge30" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDOutputCharCode(FILE * file, unsigned char c)@153:0</title>
+<path fill="none" stroke="black" d="M714.91,-448.02C792.75,-474.17 946.02,-522.56 1080.16,-546.29 1144.65,-557.7 1215.62,-565.04 1279.96,-569.77"/>
+<polygon fill="black" stroke="black" points="1280,-573.28 1290.23,-570.5 1280.5,-566.3 1280,-573.28"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDActualizeTree(t_node ** tree_array, t_node * actual_node)@163:0 -->
+<g id="node18" class="node">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDActualizeTree(t_node ** tree_array, t_node * actual_node)@163:0</title>
+<ellipse fill="none" stroke="black" cx="1487.52" cy="-376.29" rx="266.09" ry="18"/>
+<text text-anchor="middle" x="1487.52" y="-372.09" font-family="Times,serif" font-size="14.00">AHEDActualizeTree(t_node ** tree_array, t_node * actual_node)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDActualizeTree(t_node ** tree_array, t_node * actual_node)@163:0 -->
+<g id="edge31" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDActualizeTree(t_node ** tree_array, t_node * actual_node)@163:0</title>
+<path fill="none" stroke="black" d="M860.27,-417.39C988.84,-408.95 1156.32,-397.96 1285.73,-389.47"/>
+<polygon fill="black" stroke="black" points="1286.02,-392.96 1295.76,-388.81 1285.56,-385.97 1286.02,-392.96"/>
+</g>
+<!-- file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h#__assert_rtn(const char *, const char *, int, const char *)@81:5 -->
+<g id="node19" class="node">
+<title>file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h#__assert_rtn(const char *, const char *, int, const char *)@81:5</title>
+<ellipse fill="none" stroke="black" cx="2301.12" cy="-291.29" rx="229.13" ry="18"/>
+<text text-anchor="middle" x="2301.12" y="-287.09" font-family="Times,serif" font-size="14.00">__assert_rtn(const char *, const char *, int, const char *)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h#__assert_rtn(const char *, const char *, int, const char *)@81:5 -->
+<g id="edge32" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h#__assert_rtn(const char *, const char *, int, const char *)@81:5</title>
+<path fill="none" stroke="black" d="M771.61,-446.93C852.15,-453.86 962.04,-451.24 1044.31,-403.29 1069.2,-388.78 1055.1,-363.51 1080.16,-349.29 1090.98,-343.15 1741.85,-314.83 2088.32,-300.16"/>
+<polygon fill="black" stroke="black" points="2088.64,-303.65 2098.48,-299.73 2088.34,-296.66 2088.64,-303.65"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutBit2Buffer(FILE * file, int value)@73:0 -->
+<g id="node20" class="node">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutBit2Buffer(FILE * file, int value)@73:0</title>
+<ellipse fill="none" stroke="black" cx="2889.69" cy="-541.29" rx="180.01" ry="18"/>
+<text text-anchor="middle" x="2889.69" y="-537.09" font-family="Times,serif" font-size="14.00">AHEDPutBit2Buffer(FILE * file, int value)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutBit2Buffer(FILE * file, int value)@73:0 -->
+<g id="edge33" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDEncoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@240:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutBit2Buffer(FILE * file, int value)@73:0</title>
+<path fill="none" stroke="black" d="M743.02,-413C825.71,-399.67 955.4,-392.45 1044.31,-453.29 1075.79,-474.84 1048.04,-510.7 1080.16,-531.29 1118.27,-555.71 1857.62,-557 1894.87,-531.29 1922.65,-512.12 1894.03,-479.46 1921.81,-460.29 1956.54,-436.32 2643.27,-442.28 2681.44,-460.29 2699.14,-468.65 2692.95,-483.74 2709.44,-494.29 2729.92,-507.4 2753.94,-516.86 2777.61,-523.69"/>
+<polygon fill="black" stroke="black" points="2776.8,-527.1 2787.37,-526.37 2778.65,-520.35 2776.8,-527.1"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0 -->
+<g id="edge42" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDError(const char * fmt, ...)@518:0</title>
+<path fill="none" stroke="black" d="M942.04,-373.21C987.93,-378.03 1026.4,-387.17 1044.31,-403.29 1112.07,-464.3 1013.77,-542.8 1080.16,-605.29 1165.9,-685.99 1311.01,-681.88 1402.63,-668.96"/>
+<polygon fill="black" stroke="black" points="1403.33,-672.39 1412.71,-667.47 1402.3,-665.47 1403.33,-672.39"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#malloc(size_t __size)@44:6 -->
+<g id="edge43" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#malloc(size_t __size)@44:6</title>
+<path fill="none" stroke="black" d="M744.15,-393.57C828.07,-406.68 959.06,-412.67 1044.31,-346.29 1083.54,-315.73 1041.79,-271.93 1080.16,-240.29 1171.13,-165.28 1314.47,-164.3 1404.34,-172.97"/>
+<polygon fill="black" stroke="black" points="1404.19,-176.47 1414.49,-174.01 1404.9,-169.51 1404.19,-176.47"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#free(void *)@46:6 -->
+<g id="edge44" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h#free(void *)@46:6</title>
+<path fill="none" stroke="black" d="M946.67,-376.36C990.48,-371.09 1026.96,-361.83 1044.31,-346.29 1107.66,-289.53 1016.46,-214.66 1080.16,-158.29 1129.24,-114.86 1320.33,-120.17 1422.02,-126.41"/>
+<polygon fill="black" stroke="black" points="1421.97,-129.91 1432.17,-127.05 1422.41,-122.93 1421.97,-129.91"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDActualizeTree(t_node ** tree_array, t_node * actual_node)@163:0 -->
+<g id="edge45" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDActualizeTree(t_node ** tree_array, t_node * actual_node)@163:0</title>
+<path fill="none" stroke="black" d="M946.3,-376.29C1031.96,-376.29 1125.91,-376.29 1211.09,-376.29"/>
+<polygon fill="black" stroke="black" points="1211.17,-379.79 1221.17,-376.29 1211.17,-372.79 1211.17,-379.79"/>
+</g>
+<!-- file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#putc(int, FILE *)@167:5 -->
+<g id="node21" class="node">
+<title>file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#putc(int, FILE *)@167:5</title>
+<ellipse fill="none" stroke="black" cx="3475.17" cy="-578.29" rx="76.99" ry="18"/>
+<text text-anchor="middle" x="3475.17" y="-574.09" font-family="Times,serif" font-size="14.00">putc(int, FILE *)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#putc(int, FILE *)@167:5 -->
+<g id="edge46" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#putc(int, FILE *)@167:5</title>
+<path fill="none" stroke="black" d="M943.72,-378.8C978.71,-372.08 1013.11,-361.72 1044.31,-346.29 1065.71,-335.71 1058.63,-316.6 1080.16,-306.29 1160.42,-267.85 2596,-236.36 2681.44,-261.29 2882.11,-319.86 2935.58,-361.22 3077.95,-514.29 3090.68,-527.98 3082.24,-541.15 3097.95,-551.29 3191.45,-611.68 3326.65,-603.78 3406.96,-591.65"/>
+<polygon fill="black" stroke="black" points="3407.62,-595.09 3416.95,-590.07 3406.53,-588.17 3407.62,-595.09"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferChar(FILE * file)@50:0 -->
+<g id="node23" class="node">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferChar(FILE * file)@50:0</title>
+<ellipse fill="none" stroke="black" cx="1487.52" cy="-450.29" rx="165.47" ry="18"/>
+<text text-anchor="middle" x="1487.52" y="-446.09" font-family="Times,serif" font-size="14.00">AHEDGetInputBufferChar(FILE * file)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferChar(FILE * file)@50:0 -->
+<g id="edge47" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferChar(FILE * file)@50:0</title>
+<path fill="none" stroke="black" d="M923.64,-383.39C964.36,-387.75 1005.72,-394.11 1044.31,-403.29 1061.11,-407.29 1063.37,-414.23 1080.16,-418.29 1154.89,-436.37 1239.37,-444.87 1311.87,-448.66"/>
+<polygon fill="black" stroke="black" points="1311.86,-452.16 1322.02,-449.17 1312.21,-445.17 1311.86,-452.16"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferNextBit(FILE * file)@28:0 -->
+<g id="node24" class="node">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferNextBit(FILE * file)@28:0</title>
+<ellipse fill="none" stroke="black" cx="2301.12" cy="-413.29" rx="177.08" ry="18"/>
+<text text-anchor="middle" x="2301.12" y="-409.09" font-family="Times,serif" font-size="14.00">AHEDGetInputBufferNextBit(FILE * file)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferNextBit(FILE * file)@28:0 -->
+<g id="edge48" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDDecoding(tAHED * ahed, FILE * inputFile, FILE * outputFile)@369:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferNextBit(FILE * file)@28:0</title>
+<path fill="none" stroke="black" d="M843.47,-390.18C916.82,-395.26 1002.51,-400.46 1080.16,-403.29 1446.5,-416.66 1875.12,-416.52 2114.35,-415.03"/>
+<polygon fill="black" stroke="black" points="2114.57,-418.53 2124.54,-414.97 2114.52,-411.53 2114.57,-418.53"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDOutputNodeCode(FILE * file, t_node * n)@125:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutBit2Buffer(FILE * file, int value)@73:0 -->
+<g id="edge34" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDOutputNodeCode(FILE * file, t_node * n)@125:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutBit2Buffer(FILE * file, int value)@73:0</title>
+<path fill="none" stroke="black" d="M2489.33,-534.95C2559.95,-534.38 2640.06,-534.41 2709.9,-535.02"/>
+<polygon fill="black" stroke="black" points="2710.09,-538.52 2720.12,-535.12 2710.16,-531.52 2710.09,-538.52"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDOutputNodeCode(FILE * file, t_node * n)@125:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutBit2Buffer(FILE * file, int value)@73:0 -->
+<g id="edge39" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDOutputNodeCode(FILE * file, t_node * n)@125:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutBit2Buffer(FILE * file, int value)@73:0</title>
+<path fill="none" stroke="black" d="M2489.33,-547.63C2559.95,-548.2 2640.06,-548.18 2709.9,-547.56"/>
+<polygon fill="black" stroke="black" points="2710.16,-551.06 2720.12,-547.47 2710.09,-544.06 2710.16,-551.06"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutChar2Buffer(FILE * file, unsigned char c)@96:0 -->
+<g id="node22" class="node">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutChar2Buffer(FILE * file, unsigned char c)@96:0</title>
+<ellipse fill="none" stroke="black" cx="2301.12" cy="-487.29" rx="214.09" ry="18"/>
+<text text-anchor="middle" x="2301.12" y="-483.09" font-family="Times,serif" font-size="14.00">AHEDPutChar2Buffer(FILE * file, unsigned char c)</text>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDOutputCharCode(FILE * file, unsigned char c)@153:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutChar2Buffer(FILE * file, unsigned char c)@96:0 -->
+<g id="edge36" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDOutputCharCode(FILE * file, unsigned char c)@153:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutChar2Buffer(FILE * file, unsigned char c)@96:0</title>
+<path fill="none" stroke="black" d="M1616.71,-592.82C1700.35,-596.55 1809.44,-590.21 1894.87,-546.29 1911.41,-537.79 1905.25,-522.73 1921.81,-514.29 1997.05,-475.96 2091.85,-469.26 2167.72,-472.11"/>
+<polygon fill="black" stroke="black" points="2167.68,-475.61 2177.82,-472.55 2167.99,-468.62 2167.68,-475.61"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDActualizeTree(t_node ** tree_array, t_node * actual_node)@163:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h#__assert_rtn(const char *, const char *, int, const char *)@81:5 -->
+<g id="edge38" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDActualizeTree(t_node ** tree_array, t_node * actual_node)@163:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h#__assert_rtn(const char *, const char *, int, const char *)@81:5</title>
+<path fill="none" stroke="black" d="M1613.61,-360.39C1694.05,-353.44 1800.74,-345.15 1894.87,-335.29 1975.42,-326.86 2064.69,-315.41 2138.9,-306.11"/>
+<polygon fill="black" stroke="black" points="2139.78,-309.53 2149.27,-304.81 2138.91,-302.58 2139.78,-309.53"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDActualizeTree(t_node ** tree_array, t_node * actual_node)@163:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h#__assert_rtn(const char *, const char *, int, const char *)@81:5 -->
+<g id="edge40" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDActualizeTree(t_node ** tree_array, t_node * actual_node)@163:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h#__assert_rtn(const char *, const char *, int, const char *)@81:5</title>
+<path fill="none" stroke="black" d="M1726.68,-368.35C1781.95,-364.15 1840.5,-358.98 1894.87,-353.29 2007.16,-341.54 2136.42,-323.92 2218.17,-310.11"/>
+<polygon fill="black" stroke="black" points="2218.88,-313.54 2228.15,-308.4 2217.7,-306.64 2218.88,-313.54"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutBit2Buffer(FILE * file, int value)@73:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#putc(int, FILE *)@167:5 -->
+<g id="edge35" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutBit2Buffer(FILE * file, int value)@73:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#putc(int, FILE *)@167:5</title>
+<path fill="none" stroke="black" d="M3063.78,-546.04C3174.68,-552.04 3313.16,-561.32 3397.56,-568.69"/>
+<polygon fill="black" stroke="black" points="3397.31,-572.19 3407.58,-569.58 3397.93,-565.21 3397.31,-572.19"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutBit2Buffer(FILE * file, int value)@73:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#putc(int, FILE *)@167:5 -->
+<g id="edge41" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutBit2Buffer(FILE * file, int value)@73:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#putc(int, FILE *)@167:5</title>
+<path fill="none" stroke="black" d="M3011.94,-554.58C3124.28,-563.43 3288.57,-573.63 3388.03,-577.79"/>
+<polygon fill="black" stroke="black" points="3387.91,-581.28 3398.04,-578.19 3388.19,-574.29 3387.91,-581.28"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutChar2Buffer(FILE * file, unsigned char c)@96:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutBit2Buffer(FILE * file, int value)@73:0 -->
+<g id="edge37" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutChar2Buffer(FILE * file, unsigned char c)@96:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDPutBit2Buffer(FILE * file, int value)@73:0</title>
+<path fill="none" stroke="black" d="M2476.98,-497.59C2541.33,-501.95 2614.76,-507.58 2681.44,-514.29 2711.85,-517.35 2744.68,-521.32 2775.05,-525.27"/>
+<polygon fill="black" stroke="black" points="2774.88,-528.78 2785.25,-526.61 2775.79,-521.84 2774.88,-528.78"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferChar(FILE * file)@50:0&#45;&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferNextBit(FILE * file)@28:0 -->
+<g id="edge49" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferChar(FILE * file)@50:0-&gt;file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferNextBit(FILE * file)@28:0</title>
+<path fill="none" stroke="black" d="M1640.7,-443.35C1779.43,-437.03 1984.16,-427.7 2128.63,-421.11"/>
+<polygon fill="black" stroke="black" points="2129.1,-424.59 2138.93,-420.64 2128.78,-417.6 2129.1,-424.59"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferNextBit(FILE * file)@28:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#getc(FILE *)@157:5 -->
+<g id="edge50" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferNextBit(FILE * file)@28:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#getc(FILE *)@157:5</title>
+<path fill="none" stroke="black" d="M2473.14,-417.85C2538.38,-422.59 2613.41,-429.18 2681.44,-436.29 2866.98,-455.69 2912.29,-470.05 3097.95,-488.29 3208.12,-499.11 3336.84,-507.42 3411.58,-514.4"/>
+<polygon fill="black" stroke="black" points="3411.47,-517.91 3421.75,-515.38 3412.13,-510.94 3411.47,-517.91"/>
+</g>
+<!-- file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferNextBit(FILE * file)@28:0&#45;&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#getc(FILE *)@157:5 -->
+<g id="edge51" class="edge">
+<title>file:///Users/notch1p/Desktop/ClangLearn/ahed/huff.c#AHEDGetInputBufferNextBit(FILE * file)@28:0-&gt;file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h#getc(FILE *)@157:5</title>
+<path fill="none" stroke="black" d="M2402.85,-428.1C2479.35,-435.57 2587.12,-444.43 2681.44,-454.29 2866.98,-473.69 2912.29,-488.05 3097.95,-506.29 3204.69,-516.78 3328.86,-524.9 3404.45,-527.03"/>
+<polygon fill="black" stroke="black" points="3404.71,-530.54 3414.79,-527.29 3404.88,-523.54 3404.71,-530.54"/>
+</g>
+</g>
+</svg>

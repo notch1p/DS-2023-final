@@ -12,8 +12,8 @@ struct node {
 
 #define ZERO_NODE -1 // ZERO node indicator
 #define INNER_NODE -2 // inner node indicator
-#define MAX_NODES 1025 // maximum number of nodes in the tree
-#define MAX_CODE_LENGTH 1025 // maximum number of length of string code in a node
+#define MAX_NODES 513 // maximum number of nodes in the tree
+#define MAX_CODE_LENGTH 513 // maximum number of length of string code in a node
 
 unsigned char outputBuffer = 0; // byte buffer for output
 int outputBufferPos = 7; // position in byte buffer; 1byte = 8bit
@@ -158,7 +158,8 @@ int AHEDOutputCharCode(FILE* file, unsigned char c)
 
 /**
  * Update tree.
- * Increase frequency of parents or recreate Huffman tree if needed.
+ * Increase frequency of parents or update Huffman tree if needed.
+ * @param {tree_array} array of nodes sorted by `node->order` increasingly.
  */
 void AHEDActualizeTree(t_node** tree_array, t_node* actual_node)
 {
@@ -245,6 +246,7 @@ int AHEDEncoding(tAHED* ahed, FILE* inputFile, FILE* outputFile)
     }
     ahed->uncodedSize = 0;
     ahed->codedSize = 0;
+    ahed->n_symbols = 0;
 
     int i;
     t_node* tree_array[MAX_NODES]; // nodes array, for easier order recognition and tree walking
@@ -276,6 +278,7 @@ int AHEDEncoding(tAHED* ahed, FILE* inputFile, FILE* outputFile)
         if (AHEDFirstInput(tree_array, c)) {
             // Character c was seen for the first time.
 
+            ahed->n_symbols++;
             ahed->codedSize += AHEDOutputNodeCode(outputFile, zero_node);
             ahed->codedSize += AHEDOutputCharCode(outputFile, (unsigned char)c);
 
@@ -372,6 +375,7 @@ int AHEDDecoding(tAHED* ahed, FILE* inputFile, FILE* outputFile)
     }
     ahed->uncodedSize = 0;
     ahed->codedSize = 0;
+    ahed->n_symbols = 0;
 
     int i;
     t_node* tree_array[MAX_NODES];
@@ -405,6 +409,7 @@ int AHEDDecoding(tAHED* ahed, FILE* inputFile, FILE* outputFile)
         if (not_enc_symbol) {
             // Symbol is uncompressed
 
+            ahed->n_symbols++;
             c = AHEDGetInputBufferChar(inputFile);
             if (c == EOF)
                 break;
