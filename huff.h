@@ -14,11 +14,12 @@
 #define AHEDOK 0
 #define AHEDFail -1
 
-#define timing(a, b)                      \
-    start = clock();                      \
-    a;                                    \
-    diff = clock() - start;               \
+#define timing(a, b)                            \
+    start = clock();                            \
+    a;                                          \
+    diff = clock() - start;                     \
     msec = (double)diff * 1e3 / CLOCKS_PER_SEC; \
+    if (!qFlag)                                 \
     printf("\nTime elapsed: %lfms during %s process\n", msec, b)
 
 // Encoder/decoder log

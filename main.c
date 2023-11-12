@@ -105,32 +105,24 @@ int main(int argc, char** argv)
     double msec;
     if (cFlag == 1) {
         if (!qFlag)
-            if (ofile)
-                printf("\033[1;33m===========Encoding===========\033[0m\n");
+            printf("\033[1;33m===========Encoding===========\033[0m\n");
         if (!qFlag)
-            if (ofile)
-                printf("Encode from %s to %s %s\n", ifile, (ofile ? ofile : "stdout"), (lFlag == 1 ? "(Logging)" : ""));
+            printf("Encode from %s to %s %s\n", (ifile ? ifile : "stdin"), (ofile ? ofile : "stdout"), (lFlag == 1 ? "(Logging)" : ""));
         timing(AHEDEncoding(ahed, inputFile, outputFile), "ENCODING");
         if (!qFlag)
-            if (ofile)
-                printf("n_Symbols=%d, Encoded Size=%lld B, Decoded Size=%lld B, Compressed ratio = %lf%%\n", ahed->n_symbols, ahed->codedSize, ahed->uncodedSize, (double)ahed->codedSize * 100 / ahed->uncodedSize);
+            printf("n_Symbols=%d, Encoded Size=%lld B, Decoded Size=%lld B, Compressed ratio = %lf\n", ahed->n_symbols, ahed->codedSize, ahed->uncodedSize, (double)1 - (double)ahed->codedSize / ahed->uncodedSize);
         if (!qFlag)
-            if (ofile)
-                printf("\033[1;33m===========Completed===========\033[0m\n");
+            printf("\033[1;33m===========Completed===========\033[0m\n");
     } else if (xFlag == 1) {
         if (!qFlag)
-            if (ofile)
-                printf("\033[1;33m===========Decoding===========\033[0m\n");
+            printf("\033[1;33m===========Decoding===========\033[0m\n");
         if (!qFlag)
-            if (ofile)
-                printf("Decode from %s to %s %s\n", ifile, (ofile ? ofile : "stdout"), (lFlag == 1 ? "Logging" : ""));
+            printf("Decode from %s to %s %s\n", (ifile ? ifile : "stdin"), (ofile ? ofile : "stdout"), (lFlag == 1 ? "Logging" : ""));
         timing(AHEDDecoding(ahed, inputFile, outputFile), "DECODING");
         if (!qFlag)
-            if (ofile)
-                printf("n_Symbols=%d, Encoded Size=%lld B, Decoded Size=%lld B, Compressed ratio = %lf%%\n", ahed->n_symbols, ahed->codedSize, ahed->uncodedSize, (double)ahed->codedSize * 100 / ahed->uncodedSize);
+            printf("n_Symbols=%d, Encoded Size=%lld B, Decoded Size=%lld B, Compressed ratio = %lf\n", ahed->n_symbols, ahed->codedSize, ahed->uncodedSize, (double)1 - (double)ahed->codedSize / ahed->uncodedSize);
         if (!qFlag)
-            if (ofile)
-                printf("\033[1;33m===========Completed===========\033[0m\n");
+            printf("\033[1;33m===========Completed===========\033[0m\n");
     }
     // log
     if (logFile != NULL) {
