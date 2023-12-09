@@ -10,7 +10,6 @@
 #include <sys/types.h>
 #include <time.h>
 #include <unistd.h>
-
 // return value of the program. 0 = OK, -1 = error
 #define AHEDOK 0
 #define AHEDFail -1
@@ -23,7 +22,7 @@
     if (!qFlag)                                 \
     printf("\nTime elapsed: %lfms during %s process\n", msec, b)
 
-#define printHelpMsg(t) printf("Built on %sUSAGE: main -h | -q | -c | -x [-i input_file] [-o output_file] [-l log_file] \n", t)
+#define printHelpMsg() printf("%s build compiled on %s at %s\nUSAGE: main -h | -q | -c | -x [-i input_file] [-o output_file] [-l log_file] \n", getArch(), __DATE__, __TIME__)
 // Encoder/decoder log
 typedef struct {
     /* size of the decoded string */
@@ -55,3 +54,5 @@ int AHEDDecoding(tAHED* ahed, FILE* inputFile, FILE* outputFile);
  * Print error to stderr and exit.
  */
 void AHEDError(const char* fmt, ...);
+
+const char* getArch();
