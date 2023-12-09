@@ -1,6 +1,5 @@
 #include "huff.h"
 #include <time.h>
-
 // AHED stands for Adaptive Huffman Encoding.
 
 int main(int argc, char** argv)
@@ -15,14 +14,15 @@ int main(int argc, char** argv)
     int hFlag = 0;
     int qFlag = 0;
     int c;
-
+    time_t t;
+    time(&t);
     FILE* inputFile = NULL;
     FILE* outputFile = NULL;
     FILE* logFile = NULL;
 
     opterr = 0;
     if (argc == 1) {
-        printHelpMsg();
+        printHelpMsg(ctime(&t));
         return AHEDOK;
     }
     // process program arguments
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
 
     // help
     if (hFlag == 1) {
-        printHelpMsg();
+        printHelpMsg(ctime(&t));
         return AHEDOK;
     }
 

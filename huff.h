@@ -8,6 +8,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <sys/types.h>
+#include <time.h>
 #include <unistd.h>
 
 // return value of the program. 0 = OK, -1 = error
@@ -22,7 +23,7 @@
     if (!qFlag)                                 \
     printf("\nTime elapsed: %lfms during %s process\n", msec, b)
 
-#define printHelpMsg() printf("USAGE: main -h | -q | -c | -x [-i input_file] [-o output_file] [-l log_file] \n")
+#define printHelpMsg(t) printf("Built on %sUSAGE: main -h | -q | -c | -x [-i input_file] [-o output_file] [-l log_file] \n", t)
 // Encoder/decoder log
 typedef struct {
     /* size of the decoded string */
