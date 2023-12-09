@@ -22,6 +22,7 @@
     if (!qFlag)                                 \
     printf("\nTime elapsed: %lfms during %s process\n", msec, b)
 
+#define printHelpMsg() printf("USAGE: main -h | -q | -c | -x [-i input_file] [-o output_file] [-l log_file] \n")
 // Encoder/decoder log
 typedef struct {
     /* size of the decoded string */

@@ -21,7 +21,10 @@ int main(int argc, char** argv)
     FILE* logFile = NULL;
 
     opterr = 0;
-
+    if (argc == 1) {
+        printHelpMsg();
+        return AHEDOK;
+    }
     // process program arguments
     while ((c = getopt(argc, argv, "i:o:l:cxhq")) != -1) {
         switch (c) {
@@ -57,7 +60,7 @@ int main(int argc, char** argv)
 
     // help
     if (hFlag == 1) {
-        printf("USAGE: main -h | -q | -c | -x [-i input_file] [-o output_file] [-l log_file] \n");
+        printHelpMsg();
         return AHEDOK;
     }
 
